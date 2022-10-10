@@ -1,7 +1,7 @@
 using System;
 namespace Lession2
 {
-    class Types
+    class DataTypes
     {
         static void Main()
         {
